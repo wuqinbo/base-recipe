@@ -1,0 +1,303 @@
+2018-12-29 17:00:49,645 INFO     :  * Restarting with stat
+2018-12-29 17:00:50,664 WARNING  :  * Debugger is active!
+2018-12-29 17:00:50,675 INFO     :  * Debugger PIN: 276-458-132
+2018-12-29 17:00:57,206 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-12-29 17:03:43,952 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2018-12-29 17:03:45,140 INFO     :  * Restarting with stat
+2018-12-29 17:03:46,183 WARNING  :  * Debugger is active!
+2018-12-29 17:03:46,193 INFO     :  * Debugger PIN: 276-458-132
+2018-12-29 17:03:52,714 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:01:06,263 INFO     :  * Restarting with stat
+2019-01-02 10:01:07,419 WARNING  :  * Debugger is active!
+2019-01-02 10:01:07,430 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:01:13,988 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:05:47,475 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 10:05:47,544 INFO     :  * Restarting with stat
+2019-01-02 10:05:48,532 WARNING  :  * Debugger is active!
+2019-01-02 10:05:48,541 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:05:55,051 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:06:19,368 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-02 10:06:19,886 INFO     :  * Restarting with stat
+2019-01-02 10:06:20,937 WARNING  :  * Debugger is active!
+2019-01-02 10:06:20,956 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:06:27,445 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:08:53,117 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-02 10:08:54,154 INFO     :  * Restarting with stat
+2019-01-02 10:10:02,208 INFO     :  * Restarting with stat
+2019-01-02 10:10:03,163 WARNING  :  * Debugger is active!
+2019-01-02 10:10:03,171 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:10:09,690 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:11:17,726 INFO     :  * Restarting with stat
+2019-01-02 10:11:18,740 WARNING  :  * Debugger is active!
+2019-01-02 10:11:18,749 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:14:55,419 INFO     :  * Restarting with stat
+2019-01-02 10:14:56,490 WARNING  :  * Debugger is active!
+2019-01-02 10:14:56,503 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:15:02,973 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:15:08,994 INFO     : 127.0.0.1 - - [02/Jan/2019 10:15:08] "GET / HTTP/1.1" 404 -
+2019-01-02 10:15:09,122 INFO     : 127.0.0.1 - - [02/Jan/2019 10:15:09] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-02 10:19:02,851 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 10:19:03,116 INFO     :  * Restarting with stat
+2019-01-02 10:19:04,162 WARNING  :  * Debugger is active!
+2019-01-02 10:19:04,171 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:19:15,276 INFO     :  * Restarting with stat
+2019-01-02 10:19:16,244 WARNING  :  * Debugger is active!
+2019-01-02 10:19:16,253 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:19:22,758 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:21:57,816 INFO     : 127.0.0.1 - - [02/Jan/2019 10:21:57] "GET / HTTP/1.1" 404 -
+2019-01-02 10:22:34,659 INFO     :  * Restarting with stat
+2019-01-02 10:22:35,613 WARNING  :  * Debugger is active!
+2019-01-02 10:22:35,621 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:22:42,175 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:22:53,290 DEBUG    : recipe debug
+2019-01-02 10:22:53,290 DEBUG    : recipe debug
+2019-01-02 10:22:53,290 INFO     : 127.0.0.1 - - [02/Jan/2019 10:22:53] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-02 10:23:04,583 DEBUG    : welcome
+2019-01-02 10:23:04,583 DEBUG    : welcome
+2019-01-02 10:23:04,584 INFO     : 127.0.0.1 - - [02/Jan/2019 10:23:04] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 10:37:06,550 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 10:37:06,799 INFO     :  * Restarting with stat
+2019-01-02 10:37:07,762 WARNING  :  * Debugger is active!
+2019-01-02 10:37:07,771 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:37:14,289 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:37:17,587 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 10:37:18,045 INFO     :  * Restarting with stat
+2019-01-02 10:44:24,945 INFO     :  * Restarting with stat
+2019-01-02 10:44:25,892 WARNING  :  * Debugger is active!
+2019-01-02 10:44:25,901 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:44:32,420 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:44:39,257 INFO     : 127.0.0.1 - - [02/Jan/2019 10:44:39] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 10:44:46,658 DEBUG    : recipe debug
+2019-01-02 10:44:46,658 DEBUG    : recipe debug
+2019-01-02 10:44:46,659 INFO     : 127.0.0.1 - - [02/Jan/2019 10:44:46] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-02 10:44:52,221 INFO     : 127.0.0.1 - - [02/Jan/2019 10:44:52] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 10:46:31,648 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 10:46:31,978 INFO     :  * Restarting with stat
+2019-01-02 10:46:33,008 WARNING  :  * Debugger is active!
+2019-01-02 10:46:33,021 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 10:46:39,520 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 10:47:17,099 INFO     : 127.0.0.1 - - [02/Jan/2019 10:47:17] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 10:50:30,088 INFO     : 127.0.0.1 - - [02/Jan/2019 10:50:30] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 10:50:51,252 DEBUG    : welcome
+2019-01-02 10:50:51,252 DEBUG    : welcome
+2019-01-02 10:50:51,253 INFO     : 127.0.0.1 - - [02/Jan/2019 10:50:51] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 11:05:10,440 DEBUG    : welcome
+2019-01-02 11:05:10,440 DEBUG    : welcome
+2019-01-02 11:05:10,440 INFO     : 127.0.0.1 - - [02/Jan/2019 11:05:10] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 11:05:12,933 DEBUG    : welcome
+2019-01-02 11:05:12,933 DEBUG    : welcome
+2019-01-02 11:05:12,934 INFO     : 127.0.0.1 - - [02/Jan/2019 11:05:12] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 11:18:52,853 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 11:18:53,369 INFO     :  * Restarting with stat
+2019-01-02 11:53:10,602 INFO     :  * Restarting with stat
+2019-01-02 11:53:11,536 WARNING  :  * Debugger is active!
+2019-01-02 11:53:11,543 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 11:53:11,566 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 11:53:19,457 INFO     : 127.0.0.1 - - [02/Jan/2019 11:53:19] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 11:53:41,224 INFO     :  * Restarting with stat
+2019-01-02 11:53:43,004 WARNING  :  * Debugger is active!
+2019-01-02 11:53:43,018 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 11:53:43,042 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 11:53:49,559 INFO     : 127.0.0.1 - - [02/Jan/2019 11:53:49] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 11:54:11,613 DEBUG    : recipe debug
+2019-01-02 11:54:11,613 DEBUG    : recipe debug
+2019-01-02 11:54:11,614 INFO     : 127.0.0.1 - - [02/Jan/2019 11:54:11] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-02 11:54:18,040 INFO     : 127.0.0.1 - - [02/Jan/2019 11:54:18] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 11:55:09,341 INFO     : 127.0.0.1 - - [02/Jan/2019 11:55:09] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 11:58:55,502 INFO     :  * Restarting with stat
+2019-01-02 11:58:57,222 WARNING  :  * Debugger is active!
+2019-01-02 11:58:57,233 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 11:58:57,257 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 11:59:03,163 INFO     : 127.0.0.1 - - [02/Jan/2019 11:59:03] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:12,588 INFO     :  * Restarting with stat
+2019-01-02 12:00:14,392 WARNING  :  * Debugger is active!
+2019-01-02 12:00:14,405 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:00:14,436 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:00:18,593 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:18] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:24,284 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:24] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:25,552 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:25] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:26,572 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:26] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:27,521 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:27] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:28,798 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:28] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:00:29,875 INFO     : 127.0.0.1 - - [02/Jan/2019 12:00:29] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:01:45,018 INFO     : 127.0.0.1 - - [02/Jan/2019 12:01:45] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:01:57,708 INFO     :  * Restarting with stat
+2019-01-02 12:01:59,499 WARNING  :  * Debugger is active!
+2019-01-02 12:01:59,511 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:01:59,537 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:02:14,310 INFO     : 127.0.0.1 - - [02/Jan/2019 12:02:14] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:32,377 INFO     :  * Restarting with stat
+2019-01-02 12:03:34,104 WARNING  :  * Debugger is active!
+2019-01-02 12:03:34,119 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:03:34,144 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:03:42,938 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:42] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:44,180 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:44] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:45,042 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:45] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:45,909 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:45] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:46,726 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:46] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:47,369 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:47] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:48,057 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:48] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:03:51,325 INFO     : 127.0.0.1 - - [02/Jan/2019 12:03:51] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:06:20,623 INFO     : 127.0.0.1 - - [02/Jan/2019 12:06:20] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:08:19,154 INFO     : 127.0.0.1 - - [02/Jan/2019 12:08:19] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:08:33,127 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:08:33,515 INFO     :  * Restarting with stat
+2019-01-02 12:08:35,292 WARNING  :  * Debugger is active!
+2019-01-02 12:08:35,305 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:08:35,328 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:08:48,933 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:08:49,342 INFO     :  * Restarting with stat
+2019-01-02 12:08:51,204 WARNING  :  * Debugger is active!
+2019-01-02 12:08:51,217 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:08:51,243 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:09:10,582 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:09:10,759 INFO     :  * Restarting with stat
+2019-01-02 12:09:12,607 WARNING  :  * Debugger is active!
+2019-01-02 12:09:12,619 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:09:12,659 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:09:21,791 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-02 12:09:22,151 INFO     :  * Restarting with stat
+2019-01-02 12:09:23,997 WARNING  :  * Debugger is active!
+2019-01-02 12:09:24,010 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:09:24,034 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:09:51,999 DEBUG    : welcome
+2019-01-02 12:09:51,999 DEBUG    : welcome
+2019-01-02 12:09:52,003 INFO     : 127.0.0.1 - - [02/Jan/2019 12:09:52] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 12:10:09,217 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:10:09,420 DEBUG    : welcome
+2019-01-02 12:10:09,420 DEBUG    : welcome
+2019-01-02 12:10:09,421 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:09] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 12:10:09,591 INFO     :  * Restarting with stat
+2019-01-02 12:10:11,506 WARNING  :  * Debugger is active!
+2019-01-02 12:10:11,518 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:10:11,543 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:10:42,014 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:10:42,071 INFO     :  * Restarting with stat
+2019-01-02 12:10:43,838 WARNING  :  * Debugger is active!
+2019-01-02 12:10:43,850 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:10:43,876 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:10:49,129 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:49] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:50,946 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:50] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:51,819 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:51] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:52,632 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:52] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:53,442 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:53] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:54,314 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:54] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:55,098 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:55] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:55,851 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:55] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:10:56,558 INFO     : 127.0.0.1 - - [02/Jan/2019 12:10:56] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:12:07,540 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:12:07,982 INFO     :  * Restarting with stat
+2019-01-02 12:12:09,846 WARNING  :  * Debugger is active!
+2019-01-02 12:12:09,860 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:12:09,890 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:12:14,727 INFO     : 127.0.0.1 - - [02/Jan/2019 12:12:14] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:12:16,062 INFO     : 127.0.0.1 - - [02/Jan/2019 12:12:16] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:12:17,118 INFO     : 127.0.0.1 - - [02/Jan/2019 12:12:17] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:12:42,609 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:12:42,929 INFO     :  * Restarting with stat
+2019-01-02 12:12:44,736 WARNING  :  * Debugger is active!
+2019-01-02 12:12:44,749 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:12:44,775 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:13:24,761 INFO     : 127.0.0.1 - - [02/Jan/2019 12:13:24] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:13:28,545 INFO     : 127.0.0.1 - - [02/Jan/2019 12:13:28] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:14:08,755 INFO     :  * Restarting with stat
+2019-01-02 12:14:10,460 WARNING  :  * Debugger is active!
+2019-01-02 12:14:10,473 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:14:10,498 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:14:16,974 INFO     : 127.0.0.1 - - [02/Jan/2019 12:14:16] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 12:15:41,158 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:15:41,599 INFO     :  * Restarting with stat
+2019-01-02 12:15:43,488 WARNING  :  * Debugger is active!
+2019-01-02 12:15:43,498 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:15:43,524 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:15:48,104 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:15:48,524 INFO     :  * Restarting with stat
+2019-01-02 12:15:50,377 WARNING  :  * Debugger is active!
+2019-01-02 12:15:50,393 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:15:50,419 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:16:09,803 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:16:09,924 INFO     :  * Restarting with stat
+2019-01-02 12:19:23,827 INFO     :  * Restarting with stat
+2019-01-02 12:19:25,667 WARNING  :  * Debugger is active!
+2019-01-02 12:19:25,680 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:19:25,705 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:19:29,525 DEBUG    : welcome
+2019-01-02 12:19:29,525 DEBUG    : welcome
+2019-01-02 12:19:29,527 INFO     : 127.0.0.1 - - [02/Jan/2019 12:19:29] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 12:20:05,591 INFO     :  * Detected change in 'C:\\base-recipe\\app\\exts.py', reloading
+2019-01-02 12:20:05,747 INFO     :  * Restarting with stat
+2019-01-02 12:20:07,825 WARNING  :  * Debugger is active!
+2019-01-02 12:20:07,838 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:20:07,860 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:20:30,759 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-02 12:20:30,888 INFO     :  * Restarting with stat
+2019-01-02 12:20:32,960 WARNING  :  * Debugger is active!
+2019-01-02 12:20:32,974 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 12:20:33,000 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 12:20:38,667 DEBUG    : welcome
+2019-01-02 12:20:38,667 DEBUG    : welcome
+2019-01-02 12:20:38,672 INFO     : 127.0.0.1 - - [02/Jan/2019 12:20:38] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 13:15:01,284 INFO     :  * Detected change in 'C:\\base-recipe\\run_app.py', reloading
+2019-01-02 13:15:01,794 INFO     :  * Restarting with stat
+2019-01-02 13:15:03,581 WARNING  :  * Debugger is active!
+2019-01-02 13:15:03,593 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:15:03,621 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:18:24,868 INFO     :  * Restarting with stat
+2019-01-02 13:18:25,856 WARNING  :  * Debugger is active!
+2019-01-02 13:18:25,869 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:18:25,895 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:18:47,372 INFO     : 127.0.0.1 - - [02/Jan/2019 13:18:47] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 13:19:23,036 INFO     : 127.0.0.1 - - [02/Jan/2019 13:19:23] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 13:19:24,252 INFO     : 127.0.0.1 - - [02/Jan/2019 13:19:24] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 13:19:34,223 INFO     : 127.0.0.1 - - [02/Jan/2019 13:19:34] "GET /api/recipe/ HTTP/1.1" 500 -
+2019-01-02 13:19:54,524 INFO     :  * Restarting with stat
+2019-01-02 13:19:55,510 WARNING  :  * Debugger is active!
+2019-01-02 13:19:55,519 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:19:55,542 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:20:06,216 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:06] "GET /api/recipe/ HTTP/1.1" 500 -
+2019-01-02 13:20:20,847 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:20] "GET / HTTP/1.1" 500 -
+2019-01-02 13:20:20,872 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:20] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-01-02 13:20:20,877 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:20] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-01-02 13:20:20,886 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:20] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-01-02 13:20:20,937 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:20] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-01-02 13:20:21,186 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-01-02 13:20:21,270 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:21] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-01-02 13:20:27,688 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test HTTP/1.1" 500 -
+2019-01-02 13:20:27,703 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-01-02 13:20:27,703 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-01-02 13:20:27,703 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-01-02 13:20:27,767 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-01-02 13:20:27,967 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:27] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-01-02 13:20:28,056 INFO     : 127.0.0.1 - - [02/Jan/2019 13:20:28] "GET /api/recipe/test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-01-02 13:21:39,399 INFO     :  * Detected change in 'C:\\base-recipe\\run_app.py', reloading
+2019-01-02 13:21:39,494 INFO     :  * Detected change in 'C:\\base-recipe\\run_app.py', reloading
+2019-01-02 13:21:39,754 INFO     :  * Restarting with stat
+2019-01-02 13:21:39,927 INFO     :  * Restarting with stat
+2019-01-02 13:21:40,958 WARNING  :  * Debugger is active!
+2019-01-02 13:21:40,966 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:21:40,988 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:22:18,681 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-02 13:22:18,770 INFO     :  * Restarting with stat
+2019-01-02 13:22:19,772 WARNING  :  * Debugger is active!
+2019-01-02 13:22:19,781 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:22:19,804 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:22:30,767 INFO     :  * Restarting with stat
+2019-01-02 13:22:31,715 WARNING  :  * Debugger is active!
+2019-01-02 13:22:31,723 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 13:22:31,745 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 13:22:35,245 INFO     : 127.0.0.1 - - [02/Jan/2019 13:22:35] "GET / HTTP/1.1" 404 -
+2019-01-02 13:22:38,980 DEBUG    : recipe debug
+2019-01-02 13:22:38,980 DEBUG    : recipe debug
+2019-01-02 13:22:38,981 INFO     : 127.0.0.1 - - [02/Jan/2019 13:22:38] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-02 13:22:44,895 DEBUG    : welcome
+2019-01-02 13:22:44,895 DEBUG    : welcome
+2019-01-02 13:22:44,896 INFO     : 127.0.0.1 - - [02/Jan/2019 13:22:44] "GET /api/recipe/test HTTP/1.1" 200 -
+2019-01-02 16:31:48,953 INFO     :  * Restarting with stat
+2019-01-02 16:31:50,019 WARNING  :  * Debugger is active!
+2019-01-02 16:31:50,029 INFO     :  * Debugger PIN: 276-458-132
+2019-01-02 16:31:50,057 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-02 16:32:03,081 INFO     : 127.0.0.1 - - [02/Jan/2019 16:32:03] "GET / HTTP/1.1" 404 -
+2019-01-02 16:32:15,365 INFO     : 127.0.0.1 - - [02/Jan/2019 16:32:15] "GET /api/recipe/test HTTP/1.1" 401 -
+2019-01-02 16:32:25,704 DEBUG    : welcome
+2019-01-02 16:32:25,704 DEBUG    : welcome
+2019-01-02 16:32:25,705 INFO     : 127.0.0.1 - - [02/Jan/2019 16:32:25] "GET /api/recipe/test HTTP/1.1" 200 -
