@@ -7,10 +7,10 @@ from logging.config import fileConfig
 from flask import Flask
 from conf.config import config
 from .exts import db,auth
-from flasgger import Swagger,swag_from
 from app.models import UserList
 
 fileConfig('conf/log-app.conf')
+
 
 @auth.get_password
 def get_password(username):
@@ -34,7 +34,6 @@ def get_config():
 
 def create_app(config_name):
     app = Flask(__name__,instance_relative_config=True)
-    Swagger(app)
     # logging
     app_logger = logging.getLogger('backend')
     app.logger.handlers.extend(app_logger.handlers)
@@ -48,9 +47,10 @@ def create_app(config_name):
     db.init_app(app)
     config[config_name].init_app(app)
 
-    from .recipe import recipe as recipe_blueprint
-    app.register_blueprint(recipe_blueprint, url_prefix='/api/recipe')
-
+    from .recipe import recipe_blueprint
+    from .custom import  recipe2_blueprint
+    app.register_blueprint(recipe_blueprint)
+    app.register_blueprint(recipe2_blueprint)
     # 附加路由和自定义的错误页面
 
     return app

@@ -1,0 +1,85 @@
+2019-01-03 12:56:25,260 INFO     :  * Restarting with stat
+2019-01-03 12:56:26,576 WARNING  :  * Debugger is active!
+2019-01-03 12:56:26,588 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 12:56:26,613 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 12:56:32,411 INFO     : 127.0.0.1 - - [03/Jan/2019 12:56:32] "GET /apidocs/ HTTP/1.1" 404 -
+2019-01-03 12:56:32,645 INFO     : 127.0.0.1 - - [03/Jan/2019 12:56:32] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-03 12:56:39,721 INFO     : 127.0.0.1 - - [03/Jan/2019 12:56:39] "GET / HTTP/1.1" 404 -
+2019-01-03 12:56:39,783 INFO     : 127.0.0.1 - - [03/Jan/2019 12:56:39] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-03 12:56:52,656 DEBUG    : recipe debug
+2019-01-03 12:56:52,656 DEBUG    : recipe debug
+2019-01-03 12:56:52,658 INFO     : 127.0.0.1 - - [03/Jan/2019 12:56:52] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-03 12:57:08,337 INFO     : 127.0.0.1 - - [03/Jan/2019 12:57:08] "GET /api/recipe/apidocs/ HTTP/1.1" 404 -
+2019-01-03 13:48:53,078 INFO     :  * Detected change in 'C:\\base-recipe\\run_app.py', reloading
+2019-01-03 13:48:53,428 INFO     :  * Restarting with stat
+2019-01-03 13:48:54,512 WARNING  :  * Debugger is active!
+2019-01-03 13:48:54,520 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:48:54,556 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:50:06,997 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 13:50:07,351 INFO     :  * Restarting with stat
+2019-01-03 13:50:08,499 WARNING  :  * Debugger is active!
+2019-01-03 13:50:08,508 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:50:08,532 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:51:42,740 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 13:51:43,285 INFO     :  * Restarting with stat
+2019-01-03 13:51:44,412 WARNING  :  * Debugger is active!
+2019-01-03 13:51:44,422 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:51:44,447 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:51:51,289 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 13:51:51,624 INFO     :  * Restarting with stat
+2019-01-03 13:51:52,751 WARNING  :  * Debugger is active!
+2019-01-03 13:51:52,760 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:51:52,782 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:52:04,165 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 13:52:04,458 INFO     :  * Restarting with stat
+2019-01-03 13:52:05,666 WARNING  :  * Debugger is active!
+2019-01-03 13:52:05,676 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:52:05,700 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:52:13,624 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 13:52:13,874 INFO     :  * Restarting with stat
+2019-01-03 13:52:15,060 WARNING  :  * Debugger is active!
+2019-01-03 13:52:15,068 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:52:15,095 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:52:55,382 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-03 13:52:55,786 INFO     :  * Restarting with stat
+2019-01-03 13:52:56,934 WARNING  :  * Debugger is active!
+2019-01-03 13:52:56,944 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:52:56,968 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 13:53:00,314 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-03 13:53:00,638 INFO     :  * Restarting with stat
+2019-01-03 13:53:01,768 WARNING  :  * Debugger is active!
+2019-01-03 13:53:01,778 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 13:53:01,799 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 14:05:33,384 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-03 14:05:33,909 INFO     :  * Restarting with stat
+2019-01-03 14:05:35,045 WARNING  :  * Debugger is active!
+2019-01-03 14:05:35,055 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 14:05:35,077 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 14:05:47,486 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-03 14:05:47,758 INFO     :  * Restarting with stat
+2019-01-03 14:12:22,651 INFO     :  * Restarting with stat
+2019-01-03 14:12:23,722 WARNING  :  * Debugger is active!
+2019-01-03 14:12:23,732 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 14:12:23,757 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 14:13:32,653 INFO     : 127.0.0.1 - - [03/Jan/2019 14:13:32] "GET / HTTP/1.1" 404 -
+2019-01-03 14:14:02,123 INFO     :  * Detected change in 'C:\\base-recipe\\app\\__init__.py', reloading
+2019-01-03 14:14:02,587 INFO     :  * Restarting with stat
+2019-01-03 14:14:03,676 WARNING  :  * Debugger is active!
+2019-01-03 14:14:03,686 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 14:14:03,707 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 14:14:42,832 INFO     :  * Detected change in 'C:\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-03 14:14:42,923 INFO     :  * Restarting with stat
+2019-01-03 14:19:58,356 INFO     :  * Restarting with stat
+2019-01-03 14:20:02,795 INFO     :  * Restarting with stat
+2019-01-03 14:20:03,930 WARNING  :  * Debugger is active!
+2019-01-03 14:20:03,942 INFO     :  * Debugger PIN: 276-458-132
+2019-01-03 14:20:03,976 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-03 14:20:17,807 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:17] "GET /apidocs/ HTTP/1.1" 200 -
+2019-01-03 14:20:17,822 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:17] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2019-01-03 14:20:17,823 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:17] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2019-01-03 14:20:17,824 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:17] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2019-01-03 14:20:18,021 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:18] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2019-01-03 14:20:19,009 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:19] "GET /apispec_1.json HTTP/1.1" 200 -
+2019-01-03 14:20:19,030 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:19] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2019-01-03 14:20:29,085 INFO     : 127.0.0.1 - - [03/Jan/2019 14:20:29] "GET /tos HTTP/1.1" 404 -
+2019-01-03 14:45:04,297 INFO     : 127.0.0.1 - - [03/Jan/2019 14:45:04] "GET / HTTP/1.1" 404 -
