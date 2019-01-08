@@ -1,0 +1,507 @@
+2019-01-04 12:28:25,242 INFO     :  * Restarting with stat
+2019-01-04 12:28:26,230 WARNING  :  * Debugger is active!
+2019-01-04 12:28:26,238 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 12:28:26,260 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 12:28:47,786 INFO     : 127.0.0.1 - - [04/Jan/2019 12:28:47] "GET / HTTP/1.1" 404 -
+2019-01-04 12:28:47,843 INFO     : 127.0.0.1 - - [04/Jan/2019 12:28:47] "GET /favicon.ico HTTP/1.1" 404 -
+2019-01-04 12:29:15,425 INFO     : 127.0.0.1 - - [04/Jan/2019 12:29:15] "GET / HTTP/1.1" 404 -
+2019-01-04 12:29:21,567 DEBUG    : recipe debug
+2019-01-04 12:29:21,567 DEBUG    : recipe debug
+2019-01-04 12:29:21,568 INFO     : 127.0.0.1 - - [04/Jan/2019 12:29:21] "GET /api/recipe/ HTTP/1.1" 200 -
+2019-01-04 13:23:06,061 INFO     : 127.0.0.1 - - [04/Jan/2019 13:23:06] "GET / HTTP/1.1" 404 -
+2019-01-04 13:26:22,809 INFO     : 127.0.0.1 - - [04/Jan/2019 13:26:22] "GET / HTTP/1.1" 404 -
+2019-01-04 13:26:27,058 INFO     : 127.0.0.1 - - [04/Jan/2019 13:26:27] "GET / HTTP/1.1" 404 -
+2019-01-04 14:14:49,994 INFO     :  * Restarting with stat
+2019-01-04 14:14:50,982 WARNING  :  * Debugger is active!
+2019-01-04 14:14:50,991 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:14:51,017 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:14:56,861 INFO     : 127.0.0.1 - - [04/Jan/2019 14:14:56] "GET / HTTP/1.1" 404 -
+2019-01-04 14:15:11,953 INFO     : 127.0.0.1 - - [04/Jan/2019 14:15:11] "GET /api/v1.0/recipe HTTP/1.1" 404 -
+2019-01-04 14:15:50,149 INFO     : 127.0.0.1 - - [04/Jan/2019 14:15:50] "GET /api/v1.0 HTTP/1.1" 301 -
+2019-01-04 14:15:50,177 INFO     : 127.0.0.1 - - [04/Jan/2019 14:15:50] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:15:50,695 INFO     : 127.0.0.1 - - [04/Jan/2019 14:15:50] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:19:22,445 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 14:19:22,537 INFO     :  * Restarting with stat
+2019-01-04 14:19:23,586 WARNING  :  * Debugger is active!
+2019-01-04 14:19:23,596 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:19:23,620 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:20:45,317 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 14:20:45,847 INFO     :  * Restarting with stat
+2019-01-04 14:20:46,887 WARNING  :  * Debugger is active!
+2019-01-04 14:20:46,897 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:20:46,918 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:37:04,639 INFO     :  * Restarting with stat
+2019-01-04 14:37:05,639 WARNING  :  * Debugger is active!
+2019-01-04 14:37:05,646 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:37:05,670 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:37:15,204 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:37:15,221 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /swaggerui/swagger-ui.css HTTP/1.1" 200 -
+2019-01-04 14:37:15,221 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /swaggerui/droid-sans.css HTTP/1.1" 200 -
+2019-01-04 14:37:15,223 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:37:15,223 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2019-01-04 14:37:15,717 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:37:15,724 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:15] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:37:45,819 INFO     : 127.0.0.1 - - [04/Jan/2019 14:37:45] "GET /api/v1.0/recipe HTTP/1.1" 404 -
+2019-01-04 14:38:27,102 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\__init__.py', reloading
+2019-01-04 14:38:27,486 INFO     :  * Restarting with stat
+2019-01-04 14:38:28,701 WARNING  :  * Debugger is active!
+2019-01-04 14:38:28,710 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:38:28,733 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:38:35,520 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 14:38:35,850 INFO     :  * Restarting with stat
+2019-01-04 14:38:47,727 INFO     :  * Restarting with stat
+2019-01-04 14:38:48,715 WARNING  :  * Debugger is active!
+2019-01-04 14:38:48,724 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:38:48,757 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:38:57,639 INFO     : 127.0.0.1 - - [04/Jan/2019 14:38:57] "GET /api/v1.0/recipe HTTP/1.1" 404 -
+2019-01-04 14:39:01,725 INFO     : 127.0.0.1 - - [04/Jan/2019 14:39:01] "GET /api/v1.0/recipe HTTP/1.1" 404 -
+2019-01-04 14:39:07,639 INFO     : 127.0.0.1 - - [04/Jan/2019 14:39:07] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:39:08,131 INFO     : 127.0.0.1 - - [04/Jan/2019 14:39:08] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:41:17,592 INFO     :  * Restarting with stat
+2019-01-04 14:41:18,608 WARNING  :  * Debugger is active!
+2019-01-04 14:41:18,617 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:41:18,639 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:41:30,023 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:41:30,040 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:41:30,041 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2019-01-04 14:41:30,041 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:41:30,043 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:41:30,529 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:41:30,534 INFO     : 127.0.0.1 - - [04/Jan/2019 14:41:30] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:42:22,496 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\__init__.py', reloading
+2019-01-04 14:42:22,925 INFO     :  * Restarting with stat
+2019-01-04 14:42:28,845 INFO     :  * Restarting with stat
+2019-01-04 14:42:29,843 WARNING  :  * Debugger is active!
+2019-01-04 14:42:29,852 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:42:29,874 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:42:45,956 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:45] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:42:45,973 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:45] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:42:45,974 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:45] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:42:45,975 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:45] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:42:45,983 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:45] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:42:46,535 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:46] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:42:46,540 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:46] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:42:49,816 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:49] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:42:49,834 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:49] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:42:49,835 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:49] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:42:49,835 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:49] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:42:49,836 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:49] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:42:50,295 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:50] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:42:50,303 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:50] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:42:52,496 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:42:52,514 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:42:52,514 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:42:52,514 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:42:52,524 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:42:52,629 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:42:52,638 INFO     : 127.0.0.1 - - [04/Jan/2019 14:42:52] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:43:52,557 INFO     :  * Restarting with stat
+2019-01-04 14:43:53,832 WARNING  :  * Debugger is active!
+2019-01-04 14:43:53,842 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:43:53,863 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:43:57,590 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:57] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:43:57,606 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:57] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:43:57,608 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:57] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:43:57,608 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:57] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:43:57,608 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:57] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:43:58,064 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:58] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:43:58,071 INFO     : 127.0.0.1 - - [04/Jan/2019 14:43:58] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:44:20,699 INFO     : 127.0.0.1 - - [04/Jan/2019 14:44:20] "GET /api/v1.0/recipe HTTP/1.1" 404 -
+2019-01-04 14:45:42,347 INFO     : 127.0.0.1 - - [04/Jan/2019 14:45:42] "GET / HTTP/1.1" 404 -
+2019-01-04 14:47:18,237 INFO     :  * Restarting with stat
+2019-01-04 14:47:19,307 WARNING  :  * Debugger is active!
+2019-01-04 14:47:19,315 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 14:47:19,337 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 14:47:25,205 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:25] "GET / HTTP/1.1" 404 -
+2019-01-04 14:47:32,773 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:32] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:47:32,790 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:32] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:47:32,792 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:32] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:47:32,793 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:32] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:47:32,794 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:32] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:47:33,133 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:33] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:47:33,139 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:33] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:47:34,150 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:47:34,168 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:47:34,168 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:47:34,169 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:47:34,169 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:47:34,519 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:47:34,525 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 14:47:34,990 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:34] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 14:47:35,007 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 14:47:35,007 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 14:47:35,007 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 14:47:35,017 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 14:47:35,107 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 14:47:35,117 INFO     : 127.0.0.1 - - [04/Jan/2019 14:47:35] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:05:43,097 INFO     :  * Restarting with stat
+2019-01-04 15:05:44,110 WARNING  :  * Debugger is active!
+2019-01-04 15:05:44,119 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:05:44,142 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:05:55,976 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:55] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:05:55,993 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:55] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 15:05:55,993 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:55] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 15:05:55,994 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:55] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 15:05:55,995 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:55] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 15:05:56,472 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:56] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:05:56,480 INFO     : 127.0.0.1 - - [04/Jan/2019 15:05:56] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:06:05,136 INFO     : 127.0.0.1 - - [04/Jan/2019 15:06:05] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:07:07,486 INFO     :  * Restarting with stat
+2019-01-04 15:07:08,626 WARNING  :  * Debugger is active!
+2019-01-04 15:07:08,634 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:07:08,657 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:07:14,104 INFO     : 127.0.0.1 - - [04/Jan/2019 15:07:14] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:07:15,776 INFO     : 127.0.0.1 - - [04/Jan/2019 15:07:15] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:07:16,257 INFO     : 127.0.0.1 - - [04/Jan/2019 15:07:16] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:07:16,518 INFO     : 127.0.0.1 - - [04/Jan/2019 15:07:16] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:09:11,821 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\custom\\__init__.py', reloading
+2019-01-04 15:09:11,962 INFO     :  * Restarting with stat
+2019-01-04 15:09:13,060 WARNING  :  * Debugger is active!
+2019-01-04 15:09:13,068 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:09:13,092 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:09:22,272 DEBUG    : recipe debug
+2019-01-04 15:09:22,272 DEBUG    : recipe debug
+2019-01-04 15:09:22,272 INFO     : 127.0.0.1 - - [04/Jan/2019 15:09:22] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:10:11,150 DEBUG    : recipe debug
+2019-01-04 15:10:11,150 DEBUG    : recipe debug
+2019-01-04 15:10:11,150 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:11] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:10:11,769 DEBUG    : recipe debug
+2019-01-04 15:10:11,769 DEBUG    : recipe debug
+2019-01-04 15:10:11,769 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:11] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:10:16,020 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:16] "GET /api/v2.0/test HTTP/1.1" 401 -
+2019-01-04 15:10:22,664 DEBUG    : welcome
+2019-01-04 15:10:22,664 DEBUG    : welcome
+2019-01-04 15:10:22,664 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:22] "GET /api/v2.0/test HTTP/1.1" 200 -
+2019-01-04 15:10:44,770 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:44] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:10:45,241 INFO     : 127.0.0.1 - - [04/Jan/2019 15:10:45] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:11:40,512 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 15:11:40,913 INFO     :  * Restarting with stat
+2019-01-04 15:23:18,138 INFO     :  * Restarting with stat
+2019-01-04 15:23:19,265 WARNING  :  * Debugger is active!
+2019-01-04 15:23:19,276 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:23:19,300 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:23:26,862 INFO     : 127.0.0.1 - - [04/Jan/2019 15:23:26] "GET /api/v1.0/ HTTP/1.1" 404 -
+2019-01-04 15:23:47,849 DEBUG    : recipe debug
+2019-01-04 15:23:47,849 DEBUG    : recipe debug
+2019-01-04 15:23:47,850 INFO     : 127.0.0.1 - - [04/Jan/2019 15:23:47] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:24:40,835 INFO     :  * Restarting with stat
+2019-01-04 15:24:41,801 WARNING  :  * Debugger is active!
+2019-01-04 15:24:41,812 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:24:41,834 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:24:44,263 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:44] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:51,689 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:51] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:52,681 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:52] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:53,345 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:53] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:54,011 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:54] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:54,866 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:54] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:24:55,518 INFO     : 127.0.0.1 - - [04/Jan/2019 15:24:55] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:25:06,336 INFO     : 127.0.0.1 - - [04/Jan/2019 15:25:06] "GET /api/v2.0/ HTTP/1.1" 404 -
+2019-01-04 15:25:07,201 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\custom\\__init__.py', reloading
+2019-01-04 15:25:07,600 INFO     :  * Restarting with stat
+2019-01-04 15:25:08,615 WARNING  :  * Debugger is active!
+2019-01-04 15:25:08,625 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:25:08,647 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:25:11,085 DEBUG    : recipe debug
+2019-01-04 15:25:11,085 DEBUG    : recipe debug
+2019-01-04 15:25:11,085 INFO     : 127.0.0.1 - - [04/Jan/2019 15:25:11] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:25:36,270 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 15:25:36,395 INFO     :  * Restarting with stat
+2019-01-04 15:43:51,020 INFO     :  * Restarting with stat
+2019-01-04 15:43:51,999 WARNING  :  * Debugger is active!
+2019-01-04 15:43:52,007 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:43:52,030 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:44:01,754 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:01] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:44:01,773 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:01] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 15:44:01,773 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:01] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 15:44:01,773 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:01] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 15:44:01,783 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:01] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 15:44:02,289 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:02] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:44:02,294 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:02] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:44:14,106 DEBUG    : recipe debug
+2019-01-04 15:44:14,106 DEBUG    : recipe debug
+2019-01-04 15:44:14,107 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:14] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 15:44:22,614 DEBUG    : recipe debug
+2019-01-04 15:44:22,614 DEBUG    : recipe debug
+2019-01-04 15:44:22,615 INFO     : 127.0.0.1 - - [04/Jan/2019 15:44:22] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:53:04,462 INFO     :  * Restarting with stat
+2019-01-04 15:53:05,459 WARNING  :  * Debugger is active!
+2019-01-04 15:53:05,469 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:53:05,491 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:53:08,820 DEBUG    : recipe debug
+2019-01-04 15:53:08,820 DEBUG    : recipe debug
+2019-01-04 15:53:08,821 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:08] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:53:19,388 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:19] "GET /api/v1.0/ HTTP/1.1" 404 -
+2019-01-04 15:53:21,812 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:21] "GET /api/v1.0/ HTTP/1.1" 404 -
+2019-01-04 15:53:55,384 INFO     :  * Restarting with stat
+2019-01-04 15:53:56,451 WARNING  :  * Debugger is active!
+2019-01-04 15:53:56,459 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:53:56,484 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:53:59,157 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:53:59,178 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 15:53:59,179 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 15:53:59,180 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 15:53:59,188 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 15:53:59,676 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:53:59,681 INFO     : 127.0.0.1 - - [04/Jan/2019 15:53:59] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:54:45,437 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:54:45,454 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 15:54:45,456 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 15:54:45,456 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 15:54:45,457 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 15:54:45,942 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:54:45,948 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:45] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:54:50,837 DEBUG    : recipe debug
+2019-01-04 15:54:50,837 DEBUG    : recipe debug
+2019-01-04 15:54:50,837 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:50] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:54:59,917 INFO     : 127.0.0.1 - - [04/Jan/2019 15:54:59] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:55:00,433 INFO     : 127.0.0.1 - - [04/Jan/2019 15:55:00] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:57:06,323 INFO     :  * Restarting with stat
+2019-01-04 15:57:07,360 WARNING  :  * Debugger is active!
+2019-01-04 15:57:07,369 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 15:57:07,390 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 15:57:09,700 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:09] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 15:57:09,721 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:09] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 15:57:09,722 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:09] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 15:57:09,722 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:09] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 200 -
+2019-01-04 15:57:09,724 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:09] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 15:57:10,201 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:10] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 15:57:10,206 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:10] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 15:57:18,944 DEBUG    : recipe debug
+2019-01-04 15:57:18,944 DEBUG    : recipe debug
+2019-01-04 15:57:18,945 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:18] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 15:57:24,901 DEBUG    : recipe debug
+2019-01-04 15:57:24,901 DEBUG    : recipe debug
+2019-01-04 15:57:24,901 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:24] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 15:57:32,060 DEBUG    : recipe debug
+2019-01-04 15:57:32,060 DEBUG    : recipe debug
+2019-01-04 15:57:32,061 INFO     : 127.0.0.1 - - [04/Jan/2019 15:57:32] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 16:01:00,354 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:01:00,856 INFO     :  * Restarting with stat
+2019-01-04 16:01:01,913 WARNING  :  * Debugger is active!
+2019-01-04 16:01:01,922 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:01:01,944 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:01:23,013 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:01:23,132 INFO     :  * Restarting with stat
+2019-01-04 16:01:24,221 WARNING  :  * Debugger is active!
+2019-01-04 16:01:24,229 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:01:24,251 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:01:33,268 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:01:33,435 INFO     :  * Restarting with stat
+2019-01-04 16:01:34,530 WARNING  :  * Debugger is active!
+2019-01-04 16:01:34,538 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:01:34,560 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:01:35,771 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:01:36,244 INFO     :  * Restarting with stat
+2019-01-04 16:01:37,438 WARNING  :  * Debugger is active!
+2019-01-04 16:01:37,447 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:01:37,471 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:01:59,692 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:02:00,123 INFO     :  * Restarting with stat
+2019-01-04 16:02:01,197 WARNING  :  * Debugger is active!
+2019-01-04 16:02:01,209 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:02:01,231 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:02:13,466 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:02:13,877 INFO     :  * Restarting with stat
+2019-01-04 16:02:15,003 WARNING  :  * Debugger is active!
+2019-01-04 16:02:15,012 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:02:15,034 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:02:22,888 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:02:23,206 INFO     :  * Restarting with stat
+2019-01-04 16:02:56,028 INFO     :  * Restarting with stat
+2019-01-04 16:02:57,038 WARNING  :  * Debugger is active!
+2019-01-04 16:02:57,047 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:02:57,067 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:03:02,060 DEBUG    : recipe debug
+2019-01-04 16:03:02,060 DEBUG    : recipe debug
+2019-01-04 16:03:02,061 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:02] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 16:03:09,032 DEBUG    : recipe debug
+2019-01-04 16:03:09,032 DEBUG    : recipe debug
+2019-01-04 16:03:09,033 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:09] "GET /api/v2.0/ HTTP/1.1" 200 -
+2019-01-04 16:03:20,941 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:20] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:03:21,466 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:21] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 16:03:32,786 DEBUG    : recipe debug
+2019-01-04 16:03:32,786 DEBUG    : recipe debug
+2019-01-04 16:03:32,787 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:32] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:03:54,360 DEBUG    : welcome
+2019-01-04 16:03:54,360 DEBUG    : welcome
+2019-01-04 16:03:54,361 ERROR    : Exception on /api/v1.0/recipe/test [GET]
+Traceback (most recent call last):
+  File "C:\base-recipe\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\base-recipe\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\marshalling.py", line 136, in wrapper
+    resp = f(*args, **kwargs)
+  File "C:\github\base-recipe\app\recipe\recipeApi.py", line 23, in get
+    return recipes[0]
+KeyError: 0
+2019-01-04 16:03:54,361 ERROR    : Exception on /api/v1.0/recipe/test [GET]
+Traceback (most recent call last):
+  File "C:\base-recipe\venv\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\base-recipe\venv\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\api.py", line 325, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask\views.py", line 88, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\resource.py", line 44, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "C:\base-recipe\venv\lib\site-packages\flask_restplus\marshalling.py", line 136, in wrapper
+    resp = f(*args, **kwargs)
+  File "C:\github\base-recipe\app\recipe\recipeApi.py", line 23, in get
+    return recipes[0]
+KeyError: 0
+2019-01-04 16:03:54,370 INFO     : 127.0.0.1 - - [04/Jan/2019 16:03:54] "GET /api/v1.0/recipe/test HTTP/1.1" 500 -
+2019-01-04 16:04:14,394 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:04:14,878 INFO     :  * Restarting with stat
+2019-01-04 16:04:16,015 WARNING  :  * Debugger is active!
+2019-01-04 16:04:16,024 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:04:16,048 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:04:19,915 DEBUG    : welcome
+2019-01-04 16:04:19,915 DEBUG    : welcome
+2019-01-04 16:04:19,916 INFO     : 127.0.0.1 - - [04/Jan/2019 16:04:19] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:04:33,877 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:04:34,218 INFO     :  * Restarting with stat
+2019-01-04 16:04:35,323 WARNING  :  * Debugger is active!
+2019-01-04 16:04:35,331 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:04:35,353 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:04:38,795 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:04:39,038 INFO     :  * Restarting with stat
+2019-01-04 16:05:13,791 INFO     :  * Restarting with stat
+2019-01-04 16:05:14,865 WARNING  :  * Debugger is active!
+2019-01-04 16:05:14,874 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:05:14,896 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:05:20,222 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:05:20,240 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 16:05:20,241 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 16:05:20,243 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 16:05:20,243 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 16:05:20,748 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 16:05:20,755 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:20] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 16:05:28,629 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:28] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:05:40,280 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:40] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:05:40,951 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:40] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:05:41,571 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:41] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:05:42,165 INFO     : 127.0.0.1 - - [04/Jan/2019 16:05:42] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:06:17,458 INFO     : 127.0.0.1 - - [04/Jan/2019 16:06:17] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:06:49,977 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:06:50,139 INFO     :  * Restarting with stat
+2019-01-04 16:06:51,201 WARNING  :  * Debugger is active!
+2019-01-04 16:06:51,210 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:06:51,233 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:07:00,592 DEBUG    : welcome
+2019-01-04 16:07:00,592 DEBUG    : welcome
+2019-01-04 16:07:00,593 INFO     : 127.0.0.1 - - [04/Jan/2019 16:07:00] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:07:02,616 DEBUG    : welcome
+2019-01-04 16:07:02,616 DEBUG    : welcome
+2019-01-04 16:07:02,617 INFO     : 127.0.0.1 - - [04/Jan/2019 16:07:02] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:13:51,337 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 16:13:51,383 INFO     :  * Restarting with stat
+2019-01-04 16:13:52,432 WARNING  :  * Debugger is active!
+2019-01-04 16:13:52,442 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:13:52,474 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:14:49,938 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\__init__.py', reloading
+2019-01-04 16:14:50,185 INFO     :  * Restarting with stat
+2019-01-04 16:14:51,251 WARNING  :  * Debugger is active!
+2019-01-04 16:14:51,262 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:14:51,298 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:15:53,181 INFO     :  * Detected change in 'C:\\github\\base-recipe\\app\\recipe\\recipeApi.py', reloading
+2019-01-04 16:15:53,508 INFO     :  * Restarting with stat
+2019-01-04 16:15:54,658 WARNING  :  * Debugger is active!
+2019-01-04 16:15:54,668 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:15:54,691 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:15:58,525 INFO     :  * Restarting with stat
+2019-01-04 16:15:59,577 WARNING  :  * Debugger is active!
+2019-01-04 16:15:59,586 INFO     :  * Debugger PIN: 276-458-132
+2019-01-04 16:15:59,609 INFO     :  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-01-04 16:16:08,710 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:08] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:16:08,730 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:08] "GET /swaggerui/droid-sans.css HTTP/1.1" 304 -
+2019-01-04 16:16:08,731 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:08] "GET /swaggerui/swagger-ui.css HTTP/1.1" 304 -
+2019-01-04 16:16:08,733 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:08] "GET /swaggerui/swagger-ui-bundle.js HTTP/1.1" 304 -
+2019-01-04 16:16:08,735 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:08] "GET /swaggerui/swagger-ui-standalone-preset.js HTTP/1.1" 304 -
+2019-01-04 16:16:09,190 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:09] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 16:16:09,194 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:09] "GET /swaggerui/favicon-16x16.png HTTP/1.1" 200 -
+2019-01-04 16:16:37,632 DEBUG    : welcome
+2019-01-04 16:16:37,632 DEBUG    : welcome
+2019-01-04 16:16:37,633 INFO     : 127.0.0.1 - - [04/Jan/2019 16:16:37] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:18:52,321 DEBUG    : recipe debug
+2019-01-04 16:18:52,321 DEBUG    : recipe debug
+2019-01-04 16:18:52,322 INFO     : 127.0.0.1 - - [04/Jan/2019 16:18:52] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:19:43,488 DEBUG    : recipe debug
+2019-01-04 16:19:43,488 DEBUG    : recipe debug
+2019-01-04 16:19:43,489 INFO     : 127.0.0.1 - - [04/Jan/2019 16:19:43] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:19:46,209 DEBUG    : recipe debug
+2019-01-04 16:19:46,209 DEBUG    : recipe debug
+2019-01-04 16:19:46,209 INFO     : 127.0.0.1 - - [04/Jan/2019 16:19:46] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:20:00,307 DEBUG    : welcome
+2019-01-04 16:20:00,307 DEBUG    : welcome
+2019-01-04 16:20:00,309 INFO     : 127.0.0.1 - - [04/Jan/2019 16:20:00] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:20:01,017 DEBUG    : welcome
+2019-01-04 16:20:01,017 DEBUG    : welcome
+2019-01-04 16:20:01,018 INFO     : 127.0.0.1 - - [04/Jan/2019 16:20:01] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:39:42,358 INFO     : 127.0.0.1 - - [04/Jan/2019 16:39:42] "GET /snippets/17 HTTP/1.1" 404 -
+2019-01-04 16:39:42,364 INFO     : 127.0.0.1 - - [04/Jan/2019 16:39:42] "GET /snippets/ HTTP/1.1" 404 -
+2019-01-04 16:39:42,370 INFO     : 127.0.0.1 - - [04/Jan/2019 16:39:42] "PATCH /snippets/1/ HTTP/1.1" 404 -
+2019-01-04 16:39:42,374 INFO     : 127.0.0.1 - - [04/Jan/2019 16:39:42] "POST /snippets/ HTTP/1.1" 404 -
+2019-01-04 16:39:42,380 INFO     : 127.0.0.1 - - [04/Jan/2019 16:39:42] "PUT /snippets/1/ HTTP/1.1" 404 -
+2019-01-04 16:40:29,379 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:29] "GET /snippets/17 HTTP/1.1" 404 -
+2019-01-04 16:40:29,385 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:29] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:40:29,390 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:29] "PATCH /snippets/1/ HTTP/1.1" 404 -
+2019-01-04 16:40:29,396 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:29] "POST /snippets/ HTTP/1.1" 404 -
+2019-01-04 16:40:29,401 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:29] "PUT /snippets/1/ HTTP/1.1" 404 -
+2019-01-04 16:40:33,394 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:33] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:40:55,231 INFO     : 127.0.0.1 - - [04/Jan/2019 16:40:55] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:41:10,587 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:10] "GET /api/v1.0/recipe HTTP/1.1" 301 -
+2019-01-04 16:41:10,596 DEBUG    : recipe debug
+2019-01-04 16:41:10,596 DEBUG    : recipe debug
+2019-01-04 16:41:10,597 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:10] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:41:12,041 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:12] "GET /api/v1.0/ HTTP/1.1" 200 -
+2019-01-04 16:41:12,514 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:12] "GET /api/v1.0/swagger.json HTTP/1.1" 200 -
+2019-01-04 16:41:22,652 DEBUG    : recipe debug
+2019-01-04 16:41:22,652 DEBUG    : recipe debug
+2019-01-04 16:41:22,652 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:22] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:41:39,102 DEBUG    : recipe debug
+2019-01-04 16:41:39,102 DEBUG    : recipe debug
+2019-01-04 16:41:39,102 INFO     : 127.0.0.1 - - [04/Jan/2019 16:41:39] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:42:40,704 DEBUG    : recipe debug
+2019-01-04 16:42:40,704 DEBUG    : recipe debug
+2019-01-04 16:42:40,704 INFO     : 127.0.0.1 - - [04/Jan/2019 16:42:40] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:42:40,709 DEBUG    : recipe debug
+2019-01-04 16:42:40,709 DEBUG    : recipe debug
+2019-01-04 16:42:40,709 INFO     : 127.0.0.1 - - [04/Jan/2019 16:42:40] "GET /api/v1.0/recipe/ HTTP/1.1" 200 -
+2019-01-04 16:42:40,714 INFO     : 127.0.0.1 - - [04/Jan/2019 16:42:40] "PATCH /api/v1.0/recipe/ HTTP/1.1" 405 -
+2019-01-04 16:42:40,720 INFO     : 127.0.0.1 - - [04/Jan/2019 16:42:40] "POST /api/v1.0/recipe/ HTTP/1.1" 405 -
+2019-01-04 16:42:40,725 INFO     : 127.0.0.1 - - [04/Jan/2019 16:42:40] "PUT /api/v1.0/recipe/ HTTP/1.1" 405 -
+2019-01-04 16:43:25,611 DEBUG    : welcome
+2019-01-04 16:43:25,611 DEBUG    : welcome
+2019-01-04 16:43:25,611 INFO     : 127.0.0.1 - - [04/Jan/2019 16:43:25] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:43:56,955 DEBUG    : welcome
+2019-01-04 16:43:56,955 DEBUG    : welcome
+2019-01-04 16:43:56,955 INFO     : 127.0.0.1 - - [04/Jan/2019 16:43:56] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:45:27,058 DEBUG    : welcome
+2019-01-04 16:45:27,058 DEBUG    : welcome
+2019-01-04 16:45:27,059 INFO     : 127.0.0.1 - - [04/Jan/2019 16:45:27] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:47:00,115 DEBUG    : welcome
+2019-01-04 16:47:00,115 DEBUG    : welcome
+2019-01-04 16:47:00,116 INFO     : 127.0.0.1 - - [04/Jan/2019 16:47:00] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:47:11,314 DEBUG    : welcome
+2019-01-04 16:47:11,314 DEBUG    : welcome
+2019-01-04 16:47:11,314 INFO     : 127.0.0.1 - - [04/Jan/2019 16:47:11] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:49:07,433 DEBUG    : welcome
+2019-01-04 16:49:07,433 DEBUG    : welcome
+2019-01-04 16:49:07,434 INFO     : 127.0.0.1 - - [04/Jan/2019 16:49:07] "GET /api/v1.0/recipe/test HTTP/1.1" 200 -
+2019-01-04 16:49:47,342 INFO     : 127.0.0.1 - - [04/Jan/2019 16:49:47] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:50:05,762 INFO     : 127.0.0.1 - - [04/Jan/2019 16:50:05] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:50:43,303 INFO     : 127.0.0.1 - - [04/Jan/2019 16:50:43] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:50:59,912 INFO     : 127.0.0.1 - - [04/Jan/2019 16:50:59] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:51:11,945 INFO     : 127.0.0.1 - - [04/Jan/2019 16:51:11] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:51:18,202 INFO     : 127.0.0.1 - - [04/Jan/2019 16:51:18] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:51:35,889 INFO     : 127.0.0.1 - - [04/Jan/2019 16:51:35] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
+2019-01-04 16:58:55,570 INFO     : 127.0.0.1 - - [04/Jan/2019 16:58:55] "PATCH /api/v1.0/recipe/test HTTP/1.1" 405 -
