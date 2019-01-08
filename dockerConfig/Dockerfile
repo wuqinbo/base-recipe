@@ -1,11 +1,11 @@
-FROM zhuipiaochen/centos7:base
-MAINTAINER mike,spensersheng
+FROM wuqingbo/centos7:python3
+MAINTAINER qinbo.wu
 
-WORKDIR /var/www/app
+WORKDIR /var/www/base-recipe
 
 COPY . .
 
-RUN pip install --no-cache-dir -r ./requirements.txt
+RUN pip3 install --no-cache-dir -r ./requirements.txt
 
 CMD ["sh", "./dockerConfig/start.sh"]
 
